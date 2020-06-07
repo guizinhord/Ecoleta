@@ -1,6 +1,6 @@
 # Ecoleta Primero Projeto
 
-![Screenshot](Ecoleta.png)
+
 
 Tive a oportunidade de participar da semana Netx Level Week
 Nessa semana consegui aprimorar e melhorar minhas habilidades HTML5, CSS3, JavaScript
